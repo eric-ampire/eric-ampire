@@ -1,8 +1,8 @@
 ### Hello There 👋
 
-![](https://github-readme-stats.vercel.app/api?username=oesukam&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=eric-ampire&show_icons=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oesukam&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-ampire&layout=compact)
 
 To get started:
 
