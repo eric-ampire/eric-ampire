@@ -6,7 +6,7 @@
 
 To get started:
 
-- I’m currently working on ...
-- I’m currently learning ...
-- I’m looking to collaborate on ...
-- Want to reach out: [www.ericampire.xyz](www.ericampire.xyz)
+- I’m currently working on Be Served 
+- I’m currently learning Data Structures and Algorithms 
+- I’m looking to collaborate on Android Operating system 
+- Want to reach out: [www.ericampire.com](www.ericampire.com)
